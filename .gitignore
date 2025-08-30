@@ -1,0 +1,5 @@
+# Ignore API keys and virtual environment
+.streamlit/secrets.toml
+venv/
+__pycache__/
+*.pyc
