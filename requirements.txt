@@ -1,8 +1,7 @@
 streamlit
-yt-dlp
-faster-whisper
-groq
 PyPDF2
-python-docx
-tqdm
+transformers
+torch
+numpy
+faiss-cpu
 
