@@ -1,7 +1,8 @@
 streamlit
-PyPDF2
 transformers
-torch
-numpy
+torch --index-url https://download.pytorch.org/whl/cpu
 faiss-cpu
+PyPDF2
+python-docx
+datasets
 
